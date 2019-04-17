@@ -15,7 +15,7 @@ import (
 
 // Constants
 
-const token = "308420ba684ed3ddee77a995c4afd00bf510074ea8211219d424afc79545957ceaa4ec8aafea59454b576"
+const token = ""
 const categoriesFolder = "pictures/"
 
 // Error handler
